@@ -4,9 +4,9 @@ Access hosted website:
 https://nutrichef.netlify.app
 
 
-Project members: \
-* Chirag Kamble \
-* Amit Vadnere \
+Project members:
+* Chirag Kamble
+* Amit Vadnere
 * Namrata Sonawane
 
 
