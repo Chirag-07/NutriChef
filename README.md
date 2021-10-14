@@ -3,6 +3,13 @@ An Application to recommend diet based on your BMI.
 Access hosted website:
 https://nutrichef.netlify.app
 
+
+Project members: \
+* Chirag Kamble \
+* Amit Vadnere \
+* Namrata Sonawane
+
+
 In the project directory, you can run:
 
 ### `npm start`
