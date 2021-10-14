@@ -1,6 +1,7 @@
 An Application to recommend diet based on your BMI.
 
-
+Access hosted website:
+https://nutrichef.netlify.app
 
 In the project directory, you can run:
 
